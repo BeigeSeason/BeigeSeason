@@ -13,7 +13,13 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 ## Project
-### 곧감
+### - 곧감 (여행지 정보 제공 및 여행 경험 공유 사이트)
+- [사이트 접속](https://gotgam.store)
+- [깃허브](https://github.com/Got-Gam)
+
+### - Plan4Land (실시간 채팅을 활용한 여행 계획 사이트)
+- [사이트 접속](https://plan4land.store)
+- [깃허브](https://github.com/Plan4Land)
 
 <!--
 **BeigeSeason/BeigeSeason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
